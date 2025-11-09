@@ -1,26 +1,20 @@
-### Data Engineer | Big Data & MLOps Enthusiast
+# 👋 Hey, I'm Nikhil!
 
-Data Engineer with 2+ years of experience building scalable data infrastructure and ML platforms. 
+**Data Engineer building the infrastructure behind data-driven products**
 
-**Core Expertise:**
-- Designing & implementing high-throughput ETL pipelines (handling TBs of real-time data)
-- Data warehouse optimization & cost reduction
-- Batch & real-time feature engineering for ML models
-- Tech Stack: AWS (Redshift, EMR, MSK, S3), Apache Spark, Kafka, Airflow, Cassandra, Lakehouse
+**What I Do:**
+- Design & deploy scalable ETL pipelines handling terabytes of real-time data
+- Optimize data warehouses for performance & cost (saved 30% costs through efficient architecture)
+- Build MLOps platforms with real-time & batch feature computation
+- Ensure data governance & quality at scale
 
-**Currently Exploring:**
-- Lakehouse architecture patterns
-- MLOps platform design & implementation
+**Technologies:**
+`AWS` `Apache Spark` `Kafka` `Airflow` `Redshift` `EMR` `MSK` `S3` `Cassandra` `Lakehouse`
 
-**Open to Collaborate:**
-- Apache Cassandra contributions
-- Real-time data pipeline projects
-- MLOps tooling & best practices
+**Currently Learning:**
+🏗️ Lakehouse architecture patterns (Delta Lake, Iceberg, Hudi)
+⚙️ End-to-end MLOps platform design
 
-📫 Reach out for collaborations on data engineering & MLOps projects!
-
-
-<!---
-nikhilkumawat03/nikhilkumawat03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Looking to Contribute:**
+🤝 Apache Cassandra open-source projects
+💬 Open to collaborating on real-time data engineering & MLOps initiatives
